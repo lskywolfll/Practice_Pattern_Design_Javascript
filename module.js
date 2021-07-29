@@ -1,4 +1,5 @@
 // objects literals
+// un objeto literal donde podemos obtener propiedades y tambien funciones para cambiar los valores de estas propiedades
 const module = {
     prop: 'my prop',
     config: {
